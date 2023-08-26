@@ -1,8 +1,5 @@
-# Привет!👋
+# Hi there!👋
 
-Сейчас я стажируюсь и осваиваю 1C-Bitrix наряду с PHP.
-Поэтому на личные проекты времени пока нет 🙃
+Nothing to say for now; I just wanted to add this fancy document to the page.
 
-Мне можно написать в [telegram](https://t.me/lalivirtei)
-
-Есть несколько примеров моей недавней вёрстки здесь: [lalivirtei.github.io](//lalivirtei.github.io)
+Learning PHP, available on [telegram](https://t.me/lalivirtei). 
